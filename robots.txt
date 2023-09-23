@@ -1,0 +1,8 @@
+# START YOAST BLOCK
+# ---------------------------
+User-agent: *
+Disallow:
+
+Sitemap: https://infinity12original.net/sitemap_index.xml
+# ---------------------------
+# END YOAST BLOCK
